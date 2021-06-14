@@ -1,0 +1,43 @@
+id: P001678
+initial_creation_type: ocr
+source_metadata:
+  id: bdr:W1PD2074
+  title: གསུང་འབུམ། གཞན་ཕན་ཆོས་ཀྱི་སྣང་བ།
+  author: ''
+  volumes:
+    ebded473489a43969498957f48659dc3:
+      image_group_id: I01JW11564
+      title: ''
+      volume_number: 3
+      total_pages: 1034
+      base_file: v001.txt
+    72316e882c8844b6b58830a88633f6aa:
+      image_group_id: I01JW11565
+      title: ''
+      volume_number: 5
+      total_pages: 624
+      base_file: v002.txt
+    4f5e93a0fd5c452396bfe9b9b1cde79e:
+      image_group_id: I1CZ978
+      title: ''
+      volume_number: 1
+      total_pages: 990
+      base_file: v003.txt
+    eba5587d9cd74051aa7c6a3d18c030bb:
+      image_group_id: I1CZ979
+      title: ''
+      volume_number: 2
+      total_pages: 1200
+      base_file: v004.txt
+    963c43ea14af4b13af145f67adb092fe:
+      image_group_id: I1CZ981
+      title: ''
+      volume_number: 4
+      total_pages: 650
+      base_file: v005.txt
+    f9876f74f6894e80936a66acfd713732:
+      image_group_id: I1CZ983
+      title: ''
+      volume_number: 6
+      total_pages: 382
+      base_file: v006.txt
